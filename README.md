@@ -5,6 +5,15 @@ and where we track how their stories shift over time.
 
 This is not a prediction engine. It is a place to **listen** to different models, compare their assumptions, and explore how AI, economics, politics, and culture might co-evolve.
 
+## Quick start
+
+- Browse the base prompt templates in [`prompts/`](prompts/) to see exactly how the frameworks and meta analyses are generated.
+- Open the primary notebooks in the repo root for runnable examples (view directly on GitHub or Nbviewer for a zero-setup tour):
+  - [`full_framework_gemeni.ipynb`](full_framework_gemeni.ipynb): single-model notebook that walks through generating a full five-wave framework.
+  - [`scenario_pipeline_litellm.ipynb`](scenario_pipeline_litellm.ipynb): pipeline example showing how to chain scenario prompts via LiteLLM.
+  - [`scenario_pipeline_gemeni.ipynb`](scenario_pipeline_gemeni.ipynb): Gemini-focused variant of the scenario pipeline workflow.
+- This repository is an experiment—feel free to explore in read-only notebook viewers first, then clone if you want to rerun locally.
+
 ---
 
 ## 1. What this is
