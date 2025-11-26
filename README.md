@@ -72,10 +72,25 @@ Planned structure (early version):
   Helper scripts for running models and assembling results  
   (to be added as the project evolves).
 
-- `comms/`  
+- `comms/`
   Drafts for Substack posts and LinkedIn summaries that explain the work in human language.
 
 The first complete run is **2025 11** and includes frameworks from six models and a combined meta analysis called **The Quantification Paradox**.
+
+---
+
+### Run your own pass (experimental)
+
+If you want to reproduce a monthly run with your own model choices, here is the simplest manual path:
+
+- Copy or adapt the prompt templates in [`prompts/`](prompts/) so the framing, synthesis, and meta-analysis instructions match your experiment.
+- Create a local `.env` file that includes the API keys for the model endpoints you plan to call (e.g., OpenRouter or any LiteLLM-compatible provider). Keep secrets out of version control.
+- Update [`attunement/config.py`](attunement/config.py) with any endpoint choices, model names, or parameter tweaks you need for your run. Treat the config file as the single place to define what models and settings your pass will use.
+- Pick a model endpoint (e.g., OpenRouter via [`scenario_pipeline_openrouter.ipynb`](scenario_pipeline_openrouter.ipynb) or LiteLLM via [`scenario_pipeline_litellm.ipynb`](scenario_pipeline_litellm.ipynb)). Open the relevant notebook in the repo root and run the cells manually—these pipelines are intended for exploratory use, so stepwise execution is expected.
+- Save outputs under a new `runs/YYYY-MM/` directory following the convention described above: include `frameworks/` for per-model five-wave narratives, `meta/` for syntheses, and a `notes.md` file capturing the models, parameters, and context for the pass.
+- Keep everything in Markdown and simple text so the artifacts stay diffable and easy to review over time.
+
+Assumptions: these pipelines are run by hand in notebooks, and you can substitute any compatible endpoint as long as you honor the same file layout for the resulting run.
 
 ---
 
