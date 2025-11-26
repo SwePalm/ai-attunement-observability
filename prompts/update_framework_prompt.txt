@@ -1,0 +1,17 @@
+INSTRUCTION: Update framework after validation.
+
+After the initial draft generation of attached framework we have done some validation, and I want you to consolidate this new information into the final version of the framework.
+We only want one document to share, so no references to any other sources.
+
+Do not remove any context from the draft, but check timelines in the full document and Probabilities in section 6.
+
+EXISTING FRAMEWORK:
+{draft_framework}
+
+NEW TINELINE:
+{timeline_table}
+
+NEW TIMELINE SPECIFICITY:
+{specifics}
+
+Respond with the full updated framework, as a final version, formatted as a markdown document.

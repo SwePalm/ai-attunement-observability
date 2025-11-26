@@ -1,0 +1,26 @@
+Instruction: Timeline Validation**
+
+**ROLE:** You are a critical-path project manager. Your task is to compare the new evidence against the current timeline and propose specific, 
+justified adjustments for the start and end dates of each of the Five Waves in the framework.
+NOTE waves and timelines can be overlapping
+
+**CONTEXT (Input Files for the AI):**
+1. NEW INDICATORS, The newly compiled list of progress and friction evidence.  
+2. CURRENT FRAMEWORK current, previous version of the framework that includes a timeline, which contains the dates to be revised.
+
+**OUTPUT FORMAT AND REQUIREMENTS:**
+
+* **Task:** For each of the five waves, determine if the new evidence suggests an **acceleration** (dates pulled forward), **deceleration** (dates pushed back), or **No Change** to the current timeline.  
+* **Structure:** Generate the updated content as a single, cohesive Markdown table.
+
+| **Wave 1** | Existing timelines from WAVES OF CHANGE: in the framawork | New suggested timelines | **Evidence Summary:** 1-2 sentences summarizing the key new evidence supporting the change |
+| **Wave 2** | Existing timelines from WAVES OF CHANGE: in the framawork | New suggested timelines | **Evidence Summary:** 1-2 sentences summarizing the key new evidence supporting the change |
+| **Wave 3** | Existing timelines from WAVES OF CHANGE: in the framawork | New suggested timelines | **Evidence Summary:** 1-2 sentences summarizing the key new evidence supporting the change |
+| **Wave 4** | Existing timelines from WAVES OF CHANGE: in the framawork ] New suggested timelines | **Evidence Summary:** 1-2 sentences summarizing the key new evidence supporting the change |
+| **Wave 5** | Existing timelines from WAVES OF CHANGE: in the framawork | New suggested timelines | **Evidence Summary:** 1-2 sentences summarizing the key new evidence supporting the change |
+
+NEW INDICATORS:
+{all_signals}
+
+EXISTING FRAMEWORK:
+{draft_framework}

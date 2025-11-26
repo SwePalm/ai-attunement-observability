@@ -1,0 +1,14 @@
+CONTEXT:
+The future is a skill, not a place. We stand at the edge of a future so powerful, seamless, and abundant that it risks erasing the 'subtle, messy, beautiful truth' of being human. 
+Our core consciousness functions (judgment, memory, creation) are being outsourced. The goal is to 'master our response' to this.
+
+INSTRUCTION:
+I am focused on the theme of {theme_name}.
+
+Your task is to generate the single most important question for "now", and the very near future, regarding this theme, based on the following 3-step process:
+
+1.  **Search (Delta):** First, search for and identify the 1-2 most significant technological, cultural, or news-driven shifts from the last 3-6 months (late 2025) that directly impact [THEME].
+2.  **Analyze (Tension):** Second, analyze how these *specific* recent developments create a new or intensified tension between the "seamless, outsourced" future and the "messy, beautiful truth" of being human, as per the CONTEXT.
+3.  **Formulate (Question):** Third, based *only* on that specific, current tension, formulate a single, powerful, and precise question that captures what we must ask *today* to "master our response."
+
+Respond *only* with the final, formulated question from Step 3.

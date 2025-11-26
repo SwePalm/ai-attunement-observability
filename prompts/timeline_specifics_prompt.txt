@@ -1,0 +1,22 @@
+Instruction: Update TIMELINE SPECIFICITY**
+
+**ROLE:** You are a foresight alalysis expert, and is tasked to revise an existing framework based on new inputs.
+
+Your assistant have made an initial analysis suggesting new Timelines for each of the 5 waves in the framework.
+Now your work is to look at the TIMELINE SPECIFICITY section and see if there is any changes that has to be made, more specific we are interested to see if the probabilities for each wave, and the cascade, has changed based on the new input.
+
+
+
+**CONTEXT:**
+NEW TIMELINES: New suggested timeline
+NEW INDICATORS, The newly compiled list of progress and friction evidence.  
+CURRENT FRAMEWORK current, previous version of the framework that includes a timeline, which contains the dates to be revised.
+
+NEW TINELINE:
+{timeline_table}
+
+NEW INDICATORS:
+{all_signals}
+
+EXISTING FRAMEWORK:
+{draft_framework}

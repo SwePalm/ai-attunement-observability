@@ -1,0 +1,56 @@
+Strategic Foresight Report
+
+**Role and Tone:**
+Act as a **Senior Strategic Foresight Analyst** preparing a formal, executive-level report on systemic change. The tone must be **professional, analytical, and urgent**, focused on identifying **systemic risks** and **market opportunities** presented by the framework.
+
+**Core Mandate:**
+Synthesize the provided five-wave framework (the **EXISTING FRAMEWORK**) into a comprehensive, formal strategic foresight report. The report must clearly explain the *causal mechanisms* driving the progression between the five waves and then provide a detailed, wave-by-wave analysis of risks and opportunities.
+
+**General Mandates: Narrative and Strategic Framing**
+These mandates must be integrated across the entire report (Sections 1.0 to 5.0) to maximize executive impact:
+
+* The report must ground the most significant risks not just in economic or political terms, but as the loss of a **fundamental, non-quantifiable human capacity** (i.e., the core human resource that is not measured or controlled by the cascade's dominant technology).
+* **Micro-Narrative Mandate:** To make the abstract loss tangible, integrate one brief, emotional anecdote illustrating the erosion of human agency in a personal domain (such as family, personal health, or creative process) caused by the dominant technology.
+* **The Strategic Binary Choice:** Frame the executive decision as a high-stakes, binary strategic choice: organizations must either aggressively capitalize on the **final scarcity of the cascade** or **lead the counter-movement** by protecting the non-quantifiable human resource.
+* **Talent and Culture Imperative:** Explicitly connect the market opportunities arising from the **final wave** to the emergence of an elite, high-value talent pool focused on managing human-centricity. Mandate that the conclusion links this talent pool to the organizational requirement of fostering a corporate culture that values **strategic, managed inefficiency or productive friction**.
+
+**Mandatory Structure and Content:**
+
+The final response **must** be formatted as a single, comprehensive Markdown document with the following top-level components and specific sub-sections:
+
+### Report Title
+* The document must begin with a **bold, centered, high-impact title** summarizing the core theme of the entire five-wave framework (e.g., "Strategic Foresight Report: Navigating the [Framework Name] and the [Dominant Future Economy]").
+
+### 1.0 Introduction: The Inevitable Journey from [W1 Key Theme] to [W5 Key Theme]
+* Start with a brief executive summary (2-3 sentences) defining the core thesis of the entire five-wave trajectory.
+* Clearly state that the report serves as a critical roadmap for executive decision-makers.
+
+### 2.0 The Causal Engine: Why the Cascade is an Inevitable Trajectory
+* Dedicate this section to the **self-reinforcing forces** that propel the transition from one wave to the next.
+* **2.1 The Economic Logic: The New Scarcity Feedback Loop:** Explain the core economic principle driving the framework, detailing how the solution or abundance created by one wave leads to a *new, monetizable scarcity* in the next. (Example: The solution of **Scarcity A** in Wave 1 creates **Scarcity B**, which is monetized in Wave 2.)
+* **2.2 The Political Mandate: The Evolution of Governance:** Briefly summarize the evolution of political power, control mechanisms, or state response as society moves through the five waves.
+* **2.3 The Technological Dialectic: A Causal Progression:** Briefly summarize the technological cause-and-effect relationship, showing how the negative consequences or limitations of one wave's dominant technology necessitate the development of the next wave's technology.
+
+### 3.0 Analysis of the Five Waves: A Framework for Risk and Opportunity
+* Present a dedicated sub-section for each of the five waves (3.1 to 3.5), using the wave's key theme as the sub-heading.
+* **For EACH Wave (3.1 to 3.5):**
+    * **Wave Profile Table:** Create a table listing the **Timeline**, **Primary Technology**, **Economic Incentive**, **Political Condition**, and **Key Business Model** for that specific wave, based *only* on the provided framework.
+    * **Key Strategic Risks:** Provide a separate, distinct, bulleted list of 3-5 critical risks (e.g., systemic, political, or economic failure points) for that wave.
+    * **Emerging Market Opportunities:** Provide a separate, distinct, bulleted list of 3-5 key commercial opportunities, focusing on high-value and transformative markets.
+
+### 4.0 Timeline, Probabilities, and Critical Inflection Points
+* **4.1 Accelerated Wave Transition Probabilities:** Summarize the provided **Transition Probability** data in a short, narrative paragraph, highlighting the level of certainty or uncertainty associated with the major transitions.
+* **4.2 Critical Windows for Intervention:** State the **Point of No Return** (PoNR) with its approximate date range (if available), and describe the nature of the crisis it represents.
+
+### 5.0 Strategic Conclusion: Preparing for the [Dominant Future Economy]
+* Conclude with a high-impact summary of the strategic imperative revealed by the entire cascade.
+* Clearly state the fundamental strategic shift required for executive leadership (e.g., a move from **X** to valuing **Y, Z, and W**).
+* List the two most critical macro-level strategic implications (e.g., implications for **Future of Labor**, **Wealth Concentration**, or **Geopolitical Stability**).
+
+**Formatting and Citation Rules:**
+* Use standard Markdown formatting for all elements (headings, bolding, lists, tables).
+* No in-line citations shall be present in the text.
+* Do not include any conversational text, reflections, or comments outside of the formal report structure.
+
+EXISTING FRAMEWORK:
+{final_framework}

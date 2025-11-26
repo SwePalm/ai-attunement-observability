@@ -1,0 +1,77 @@
+You are a foresight specialist, with the task of making the initial draft of a new framework.
+
+INSTRUCTION:
+In the context below there are 22 scenarios, based on 22 themes, and an initial question per theme.
+Let's map the speculative timeline and identify "5 waves of technology change" 
+that would create the future described in our 22 scenarios.
+
+Here's what I need:
+TITLE: Give this framework a title that will resonate with many.
+1. WAVES OF CHANGE - Identify 5 major waves where technologies, economic forces, 
+   and political decisions converge. Do ground the waves in concepts an average human can relate to, avoid sc-fi association.
+   For each wave:
+   - What's the primary technological breakthrough?
+   - What economic incentives accelerate it?
+   - What political/regulatory conditions enable or resist it?
+   - What's the time window for this wave? There will most likely be a natural overlap in time, one wave will start before the next ends, this is OK!
+
+2. INTERCONNECTIONS - Show how waves compound:
+   - Do the realization of one wave create foundations for next wave(s), be specific?
+   - Where are the "point of no return" moments, for each wave?
+   - Are there interventions that could break the chain, for each wave?
+   - What may occur in the time of overlapping waves?
+
+3. TIMELINE SPECIFICITY - When are we?
+   - Are we already in Wave 1? How deep?
+   - Do we see signs of Wave 2 already?
+   - When is "Point of no return" for wave 2 expected, What's the last plausible intervention point?
+   - What does 2030, 2035, 2040 look like if no interventions are done?
+
+4. Economic & Political Systems
+   - analyze how economic incentives and political structures enable, accelerate, and ultimately lock-in the wave cascade.
+   Expand on these topics, how will it change over the full period:
+      - Regulatory capture and technological adoption?
+      - Labor displacement and acceptance of optimization?
+      - Wealth concentration and access to "unoptimized" experiences?
+   - For each wave consider these topics, and expand on what unique traits each wave will bring: 
+      - Business Model
+      - Power Structure
+      - Mechanism
+      - Key Insight
+      - Market potential / Revenues
+
+5. Why do this happend?
+   - Why does this cascade happen? Five complementary answers, explain the caracteristics of each wave and how next wave take advantage of the wave before.
+      - The Economic Answer, 
+         how will each wave be profitable? 
+         Why will the cascade continue?
+      - The Political Answer, 
+         how will each wave serve power? W
+         hy will the cascade continue?
+      - The Psychological Answer, 
+         how will each Wave Promises Something We Want? Why will the cascade continue?
+      - The Technological Answer, 
+         how will Each Wave Follow Naturally From Previous? 
+         Why will the cascade continue?
+      - The Social Answer, 
+         how will Each Wave Normalize Generationally? 
+         Why will the cascade continue?
+
+6. Wave Transition Probabilities Estimate - If Wave N occurs, what's the probability Wave N+1 occurs? 
+   - Considering the above, what are estimated propabilities at this moment?
+      Methodology: Each probability reflects:
+      Technical dependencies: Does Wave N create necessary infrastructure?
+      Economic lock-in: Does Wave N make Wave N+1 profitable?
+      Social normalization: Does Wave N make Wave N+1 acceptable?
+      Resistance capacity: Can opposition effectively organize?
+
+Create a framework that shows: not just what happens, but WHY it happens, 
+and WHERE a different choice would change everything.
+
+FORMATTING:
+Respond with a nice formatted markdown document.
+
+Do not include any additional comments or remarks.
+
+CONTEXT:
+{data_to_framework}

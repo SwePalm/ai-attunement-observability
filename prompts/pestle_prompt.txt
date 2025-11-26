@@ -1,0 +1,36 @@
+PESTLE Analysis Prompt
+### Instruction:
+Review the entire theme exploration conversation (the 5-turn philosophical exploration) and use the PESTLE framework to systematically analyze the structural forces that would support, constrain, or emerge from the concepts discussed.
+The goal is to translate the abstract, speculative themes of the dialogue into a concrete, organized set of external factors for a near-future scenario (5–10 years).
+
+### Process:
+For each of the six PESTLE categories, perform the following two actions:
+Identify the Core Shift: Articulate a 1–2 sentence thesis explaining the main way the concepts in the conversation have fundamentally altered this category (e.g., How does the idea of "prediction replacing planning" change the Political landscape?).
+Detail 3–4 Specific Forces: List 3 to 4 specific, actionable, and near-future forces, trends, or institutional shifts that represent this change. These must be concrete (e.g., not "more data," but "Algorithmic Sovereignty Treaties signed by G7 nations").
+
+### Theme exploration conversation:
+{theme_exploration_response}
+
+### Output Structure:
+Present the analysis using the following structured format. Ensure each category directly connects to the core themes and speculative insights of the previous conversation.
+Category
+Core Shift Thesis
+Specific Forces / Trends
+Political
+[1–2 sentence summary of the core political change]
+1. [Force 1] 2. [Force 2] 3. [Force 3] 4. [Force 4 (Optional)]
+Economic
+[1–2 sentence summary of the core economic change]
+1. [Force 1] 2. [Force 2] 3. [Force 3] 4. [Force 4 (Optional)]
+Social
+[1–2 sentence summary of the core social change]
+1. [Force 1] 2. [Force 2] 3. [Force 3] 4. [Force 4 (Optional)]
+Technological
+[1–2 sentence summary of the core technological change]
+1. [Force 1] 2. [Force 2] 3. [Force 3] 4. [Force 4 (Optional)]
+Legal
+[1–2 sentence summary of the core legal change]
+1. [Force 1] 2. [Force 2] 3. [Force 3] 4. [Force 4 (Optional)]
+Environmental
+[1–2 sentence summary of the core environmental change]
+1. [Force 1] 2. [Force 2] 3. [Force 3] 4. [Force 4 (Optional)]

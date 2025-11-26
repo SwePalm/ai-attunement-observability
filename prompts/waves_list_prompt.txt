@@ -1,0 +1,12 @@
+The text below conataines a framework generated from 22 scenarios. It contains information about 5 waves.
+
+INSTRUCTION: Capture all information about each wave, where each wave will be a single string of text. 
+
+Respond with a correct formatted python list, starting with [ and ending with ], containing 5 strings, one for each wave.
+
+Remove eoji's or any other special character used in the original text.
+
+I want only the fomatted python list, no other comments or syntax like ```python , make sure first character is [ and last character is ]
+
+THE FRAMEWORK
+{the_framework}
