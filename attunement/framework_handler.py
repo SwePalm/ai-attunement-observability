@@ -63,6 +63,66 @@ def get_framework_draft(filepath: Optional[str] = None):
     the_framework = load_framework(filepath)
     return the_framework["draft"]
 
+
+def get_framework_signals(filepath: Optional[str] = None):
+    """
+    Reads the JSON file and returns its keys as a Python dictionary.
+    
+    Args:
+        filepath (Optional[str]): The path to the JSON file. If None, it uses
+                                  the FRAMEWORK_STORE_PATH environment variable.
+        
+    Returns:
+        dict: The themes dictionary, or an empty dictionary if loading fails.
+    """
+    the_framework = load_framework(filepath)
+    return the_framework["signals"]
+
+
+def get_framework_timeline(filepath: Optional[str] = None):
+    """
+    Reads the JSON file and returns its keys as a Python dictionary.
+    
+    Args:
+        filepath (Optional[str]): The path to the JSON file. If None, it uses
+                                  the FRAMEWORK_STORE_PATH environment variable.
+        
+    Returns:
+        dict: The themes dictionary, or an empty dictionary if loading fails.
+    """
+    the_framework = load_framework(filepath)
+    return the_framework["timeline"]
+
+
+def get_framework_final(filepath: Optional[str] = None):
+    """
+    Reads the JSON file and returns its keys as a Python dictionary.
+    
+    Args:
+        filepath (Optional[str]): The path to the JSON file. If None, it uses
+                                  the FRAMEWORK_STORE_PATH environment variable.
+        
+    Returns:
+        dict: The themes dictionary, or an empty dictionary if loading fails.
+    """
+    the_framework = load_framework(filepath)
+    return the_framework["final_framework"]
+
+
+def get_framework_report(filepath: Optional[str] = None):
+    """
+    Reads the JSON file and returns its keys as a Python dictionary.
+    
+    Args:
+        filepath (Optional[str]): The path to the JSON file. If None, it uses
+                                  the FRAMEWORK_STORE_PATH environment variable.
+        
+    Returns:
+        dict: The themes dictionary, or an empty dictionary if loading fails.
+    """
+    the_framework = load_framework(filepath)
+    return the_framework["report"]
+
     
 def save_response_to_framework(key: str, response: str, filepath = ""):
   
