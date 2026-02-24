@@ -67,6 +67,7 @@ Planned structure (early version):
   The current base prompt templates for:
   - generating five wave frameworks  
   - running the cross framework meta analysis
+  - running a dedicated Human–AI Attunement Lens synthesis (`attunement_lens_prompt.txt`)
 
 - `scripts/`  
   Helper scripts for running models and assembling results  
