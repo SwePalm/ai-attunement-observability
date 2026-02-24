@@ -48,6 +48,7 @@ def get_text_from_gemini(prompt_string, model_name=GEMENI_MODEL_NAME):
     """    
     
     # NOTE: You must ensure 'GEMINI_API_KEY' and 'client' are available in your environment or passed to this function.
+    api_key = os.getenv("GEMINI_API_KEY")
     text_client = genai.Client(api_key = os.getenv("GEMINI_API_KEY"), http_options=http_options)
     
     try:
@@ -57,7 +58,9 @@ def get_text_from_gemini(prompt_string, model_name=GEMENI_MODEL_NAME):
             config=config, 
         )
         # Ensure the response is successfully parsed
-        return str(response.text) 
+        full_text = "".join([part.text for part in response.candidates[0].content.parts if part.text])
+        # return str(response.text) 
+        return str(full_text)
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         raise Exception

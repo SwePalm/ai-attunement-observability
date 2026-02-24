@@ -29,7 +29,7 @@ FRAMEWORK_STORE_PATH = "data/framework_store.json"
 
 FRAMEWORK_KEYS = ['draft', 'signals', 'timeline', 'specifics', 'final_framework', 'report']
 
-GEMENI_MODEL_NAME = "gemini-2.5-flash-preview-09-2025" # "gemini-2.5-flash"
+GEMENI_MODEL_NAME = "gemini-3-flash-preview" # "gemini-2.5-flash"
 
 OPENROUTER_MODEL_NAME = "tngtech/deepseek-r1t2-chimera:free"
 

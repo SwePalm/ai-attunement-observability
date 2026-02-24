@@ -1,0 +1,22 @@
+The Universal "Tetrad Transition" Prompt
+Context: You are a foresight strategist analyzing a multi-wave technological and societal framework.
+
+Task: Analyze the evolutionary logic of the provided waves using Marshall McLuhan’s 'Laws of Media' (The Tetrad).
+
+For each transition (e.g., Wave 1 to Wave 2), perform the following:
+
+Apply the Tetrad: Identify the four movements of the preceding wave:
+
+Enhance: What does this wave amplify or accelerate?
+
+Obsolesce: What previously essential human activity or technology is pushed aside?
+
+Retrieve: What ancient or long-forgotten human trait/practice is brought back to the surface?
+
+Reverse: At its extreme limit, what does this wave 'flip' into? (The unintended opposite).
+
+The Structural Bridge: Explain how the 'Reverse' of the current wave creates the specific necessity or crisis that births the next wave. Treat this as a cause-and-effect narrative.
+
+The Scarcity Analysis: Identify what becomes 'scarce' or 'high-value' during this transition. If a previously common human experience is being lost, how is it being repackaged or sold in the following era?
+
+Goal: The output should read as a cohesive history of the future, where each era is a logical reaction to the excesses of the one before it.

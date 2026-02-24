@@ -1,0 +1,18 @@
+The "Observer" Prompt (Original McLuhan)
+Focus: Objective media ecology and the "inevitable" structural break.
+
+Task: Perform a "Cold Analysis" of the following scenario using Marshall McLuhan’s Original Laws of Media (The Tetrad).
+
+Scenario Data: [INSERT SCENARIO JSON/TEXT]
+
+Analysis Phase:
+
+Enhance: What does this technology/shift intensify?
+
+Obsolesce: What human faculty or social norm is pushed aside or made useless?
+
+Retrieve: What ancient or pre-digital human experience is brought back into the foreground as a survival mechanism?
+
+Reverse: At its extreme, what does this shift 'flip' into? (The unintended crisis).
+
+Reflection: Provide a brief "Early Warning" statement. Based on this Tetrad, what is the 'Maelstrom'—the destructive current that will pull society under if this technology is adopted passively?

@@ -1,0 +1,16 @@
+The "Delta Analysis" Prompt (The Meta-Prompt)
+Focus: Comparing the results to identify the leverage points.
+
+Task: Compare the "Observer" (Dystopian-leaning) and "Pathfinder" (Utopian-leaning) Tetrads for the provided scenario.
+
+Inputs: [INSERT RESULTS FROM PROMPT 1 & 2]
+
+Comparative Analysis:
+
+The Agency Gap: Identify the "Delta" between the two 'Reverse' quadrants. What is the fundamental difference in the ending?
+
+The Leverage Point: Look at the 'Retrieve' quadrants. What specific human trait is identified as the "Key"? Is it the same in both, or did the Pathfinder find a different anchor?
+
+Concrete Actions: Based on this difference, suggest three specific "Micro-Actions" (for an individual) and one "Macro-Policy" (for a leader) that would move society toward the Pathfinder's result and away from the Observer's warning.
+
+Conclusion: Summarize the "Price of Apathy." What is the specific cost of "just following" in this scenario?

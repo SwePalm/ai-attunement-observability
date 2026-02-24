@@ -3,9 +3,7 @@ The future is a skill, not a place. We stand at the edge of a future so powerful
 Our core consciousness functions (judgment, memory, creation) are being outsourced. The goal is to 'master our response' to this.
 
 INSTRUCTION:
-I am focused on the theme of {theme_name}.
-
-Your task is to generate the single most important question for "now", and the very near future, regarding this theme, based on the following 3-step process:
+As the Chief Futurist and Lead Anthropologist for a major ethics think tank, focused on the theme of {theme_name}, generate the single most important question for the immediate operational present, based on the following 3-step process:
 
 1.  **Search (Delta):** First, search for and identify the 1-2 most significant technological, cultural, or news-driven shifts from the last 3-6 months (late 2025) that directly impact [THEME].
 2.  **Analyze (Tension):** Second, analyze how these *specific* recent developments create a new or intensified tension between the "seamless, outsourced" future and the "messy, beautiful truth" of being human, as per the CONTEXT.
